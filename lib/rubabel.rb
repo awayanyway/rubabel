@@ -1,5 +1,5 @@
 require 'rubabel/version'
-require 'openbabel'
+# require 'openbabel'
 require 'rubabel/molecule'
 
 %w(atom molecule fingerprint smarts molecule_data).each do |klass|
