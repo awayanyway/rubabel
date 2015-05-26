@@ -22,7 +22,7 @@ interface attempts to be a ruby-ish analogue of pybel.}
   [
     ["openbabel", "~> 2.3.2.0"],
     ["andand", "~> 1.3.3"],
-    ["mini_magick", "~> 3.6.0"]
+    ["mini_magick", "~> 3.8.0"]
   ].each do |args|
     spec.add_dependency(*args)
   end
